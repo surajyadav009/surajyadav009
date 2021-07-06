@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surajyadav009
 - 👀 I’m interested in data analytic
-- 🌱 I’m currently learning data analyst
+- 🌱 I’m currently learning masters program in data analyst from simplilearn certification
 - 💞️ I’m looking to collaborate on tools python, tableau , R .
 - 📫 How to reach me surajy009@gmail.com
 
